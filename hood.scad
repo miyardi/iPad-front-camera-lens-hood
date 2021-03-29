@@ -2,7 +2,7 @@
 // hood.scad
 //
 // https://github.com/miyardi/iPad-front-camera-lens-hood
-// (c) 2021 MIYANISHI, Hiroki
+// (c) 2021 Miyanishi, Hiroki
 //
 
 _w = 21.0;
